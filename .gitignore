@@ -1,10 +1,5 @@
-﻿# React / Node
-**/node_modules/
+﻿**/node_modules/
 **/dist/
-
-# Java / Maven
 **/target/
-
-# OS files
 .DS_Store
 **/.DS_Store
